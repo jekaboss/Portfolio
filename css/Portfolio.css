@@ -1,0 +1,30 @@
+.Portfolio{
+  max-width: 1600px;
+  margin: 0 auto;
+ padding-top: 5px;
+  display: flex;
+}
+.card-card {
+  width: 100%;
+  max-width: 300px;
+  color: #fff;
+  margin: 10px 10px 0 10px;
+  text-align: center;
+  padding: 10px 25px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(85, 88, 90, 0.2);
+  border-radius: 5px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+.card-card img{
+  background-color: #fff;
+}
+.card-card h2{
+  font-size: 18px;
+  font-weight: 700;
+  padding-top: 20px;
+  color: rgb(253, 249, 249);
+}
+.card-card h2:hover{
+  color: rgb(212, 134, 43);
+}
